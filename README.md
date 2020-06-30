@@ -1,2 +1,2 @@
 # geoweb
-Project to create a open, free, &amp; decentralized location-based web experience
+Project to create a open, free, &amp; decentralized geolocation-based web
